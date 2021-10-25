@@ -17,7 +17,8 @@
 ![Dec_Temps](resources/December_Temps.png)
 
 #### From looking at the data, there are not a lot of significant differences in temperature changes in Oahu for the months of June and December.
-     The biggest differences in weather are:
+
+#### The biggest differences in weather are:
         1. Minimum temperature is 64 in June vs 56 in December
         2. Standard Deviation  3.26 in June vs 3.75 in December
         3. Average temperature is 74.9 in June vs 71.0 in December 
